@@ -1,1 +1,2 @@
-# Minimalistic-html-fund-me
+HTML / Javascript
+Later on, we will use nextjs / Reactjs
